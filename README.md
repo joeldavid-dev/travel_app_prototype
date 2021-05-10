@@ -1,6 +1,8 @@
 # travel_app
 
-A new Flutter project.
+ENG: Prototype of a travel app made in Flutter.
+
+ESP: Prototipo de una aplicación para viajes hecha en Flutter.
 
 ## Getting Started
 
