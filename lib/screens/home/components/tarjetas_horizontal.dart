@@ -19,7 +19,7 @@ class TarjetasHorizontal extends StatelessWidget {
               'https://www.micancun.org/wp-content/uploads/2020/04/caracteristicas-de-cancun-1.jpg'),
           SizedBox(width: 15),
           _tarjeta('Bamboo Forest', 'Kyoto, Japan', '5.0',
-              'https://www.wanderonworld.com/wp-content/uploads/2014/07/bosque-bambu-arashiyama.jpg'),
+              'https://i.pinimg.com/originals/fc/1b/e0/fc1be03e19176e303bd64ace84fcab56.jpg'),
           SizedBox(width: margenDefault),
         ],
       ),
@@ -37,6 +37,7 @@ class TarjetasHorizontal extends StatelessWidget {
               image: NetworkImage(url),
               placeholder: AssetImage('assets/images/travel_placeholder.jpg'),
               fadeInDuration: Duration(milliseconds: 200),
+              //Tamaño de la tarjeta
               width: 275,
               height: 225,
               fit: BoxFit.cover,
