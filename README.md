@@ -1,4 +1,6 @@
-[![Followers](https://img.shields.io/github/followers/joeldavid-dev?logoColor=blueviolet&style=social)](https://www.instagram.com/hey_joeee/)
+[![Follow me on Github](https://img.shields.io/github/followers/joeldavid-dev?logo=github&style=for-the-badge)](https://github.com/joeldavid-dev)
+
+[![Follow me on instagram](https://img.shields.io/twitter/url?color=%23af0040&label=Follow%20me&logo=instagram&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fhey_joeee%2F)](https://www.instagram.com/hey_joeee/)
 
 # travel_app
 
