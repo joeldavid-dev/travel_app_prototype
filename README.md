@@ -1,22 +1,13 @@
-[![Follow me on Github](https://img.shields.io/github/followers/joeldavid-dev?logo=github&style=for-the-badge)](https://github.com/joeldavid-dev)
-
 [![Follow me on instagram](https://img.shields.io/twitter/url?color=%23af0040&label=Follow%20me&logo=instagram&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fhey_joeee%2F)](https://www.instagram.com/hey_joeee/)
 
-# travel_app
+# Travel app - Flutter
 
-ENG: Prototype of a travel app made in Flutter.
+ENG: In our travel application, the user interface has two pages, one is the home page where we can find suggestions for places with location and ratings. On the details page, show the price of the trip and more information about the place.
 
-ESP: Prototipo de una aplicación para viajes hecha en Flutter.
+ESP: En nuestra aplicacion de viajes, la interfaz de usuario tiene dos páginas, una es el home donde podemos encontrar sugerencias de lugares con ubicación y valoración. En la pagina de detalles, muestra el precio del viaje y mas información del lugar.
 
-## Getting Started
+### Travel App Final UI
 
-This project is a starting point for a Flutter application.
+![light UI](lightUI.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![dark UI](darkUI.png)
