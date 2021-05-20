@@ -1,7 +1,5 @@
 import 'dart:ui';
-
 import 'package:flutter/material.dart';
-
 import '../../../constants.dart';
 
 class TarjetasMiniHorizontal extends StatelessWidget {

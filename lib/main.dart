@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Travel App',
       theme: ThemeData(
-        brightness: Brightness.light,
+        brightness: tipoBrilloApp,
         primarySwatch: Colors.blueGrey,
         accentColor: colorAcento,
         scaffoldBackgroundColor: colorApp,

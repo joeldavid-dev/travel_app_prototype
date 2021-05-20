@@ -89,7 +89,7 @@ class TarjetasHorizontal extends StatelessWidget {
                         padding:
                             EdgeInsets.symmetric(horizontal: 20, vertical: 10),
                         width: 245,
-                        decoration: BoxDecoration(color: Colors.white54),
+                        decoration: BoxDecoration(color: colorAcentoBlur),
                         child: Column(
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: [

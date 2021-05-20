@@ -55,6 +55,12 @@ class BuildBody extends StatelessWidget {
         SizedBox(height: 15),
 
         TarjetasMiniHorizontal(),
+
+        SizedBox(height: 30),
+
+        TarjetasHorizontal(),
+
+        SizedBox(height: 100),
       ],
     );
   }

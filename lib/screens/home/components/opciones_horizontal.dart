@@ -28,7 +28,7 @@ class OpcionesHorizontal extends StatelessWidget {
       child: Text(texto),
       style: ElevatedButton.styleFrom(
         shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(50)),
-        primary: Colors.black,
+        primary: colorAcento,
         elevation: 0,
       ),
       onPressed: () {},
