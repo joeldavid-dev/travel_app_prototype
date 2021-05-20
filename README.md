@@ -1,3 +1,5 @@
+[![Followers](https://img.shields.io/github/followers/joeldavid-dev?logoColor=blueviolet&style=social)](https://www.instagram.com/hey_joeee/)
+
 # travel_app
 
 ENG: Prototype of a travel app made in Flutter.
