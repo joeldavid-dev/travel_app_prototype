@@ -8,6 +8,4 @@ ESP: En nuestra aplicacion de viajes, la interfaz de usuario tiene dos páginas,
 
 ### Travel App Final UI
 
-![light UI](lightUI.png)
-
-![dark UI](darkUI.png)
+![UI](UI.jpg)
