@@ -1,5 +1,3 @@
-[![Follow me on instagram](https://img.shields.io/twitter/url?color=%23af0040&label=Follow%20me&logo=instagram&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fhey_joeee%2F)](https://www.instagram.com/hey_joeee/)
-
 # Travel app - Flutter
 
 ENG: In our travel application, the user interface has two pages, one is the home page where we can find suggestions for places with location and ratings. On the details page, show the price of the trip and more information about the place.
